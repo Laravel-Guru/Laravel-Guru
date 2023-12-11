@@ -73,6 +73,26 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/077057021823196ac79a26c4fea1541795944aa1e291912c2ad630c0f1bb035c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b657220636f6d706f73652532302d2532334637444631452e7376673f267374796c653d666f722d7468652d626164676526636f6c6f723d423443334432"><img src="https://camo.githubusercontent.com/077057021823196ac79a26c4fea1541795944aa1e291912c2ad630c0f1bb035c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b657220636f6d706f73652532302d2532334637444631452e7376673f267374796c653d666f722d7468652d626164676526636f6c6f723d423443334432" data-canonical-src="https://img.shields.io/badge/Docker compose%20-%23F7DF1E.svg?&amp;style=for-the-badge&amp;color=B4C3D2" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9e53dcd0c26e5c3fc2c8e6319c89ceb782cfa6e68ad3db518321492e639b45cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472617669732043492532302d2532334637444631452e7376673f267374796c653d666f722d7468652d626164676526636f6c6f723d434433323441"><img src="https://camo.githubusercontent.com/9e53dcd0c26e5c3fc2c8e6319c89ceb782cfa6e68ad3db518321492e639b45cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472617669732043492532302d2532334637444631452e7376673f267374796c653d666f722d7468652d626164676526636f6c6f723d434433323441" data-canonical-src="https://img.shields.io/badge/Travis CI%20-%23F7DF1E.svg?&amp;style=for-the-badge&amp;color=CD324A" style="max-width: 100%;"></a>&nbsp;&nbsp;</p>
 <hr>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
 <h3 dir="auto"><a id="user-content-about-" class="anchor" aria-hidden="true" href="#about-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About <g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji></h3>
 <h3 dir="auto"><a id="user-content---domain--full-stack-web-development-" class="anchor" aria-hidden="true" href="#--domain--full-stack-web-development-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔</g-emoji>  <strong>Domain :</strong> Full-Stack Web Development <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></h3>
 <h3 dir="auto"><a id="user-content---skills--javascript-vuejs-reactjs-angular-mongodb-mysql-nodejs-php-net-core-5-python-java" class="anchor" aria-hidden="true" href="#--skills--javascript-vuejs-reactjs-angular-mongodb-mysql-nodejs-php-net-core-5-python-java"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔</g-emoji>  <strong>Skills :</strong> Javascript, Vue.js, ReactJs, Angular, MongoDB, Mysql, Node.js, PHP, .NET Core 5, Python, Java</h3>
